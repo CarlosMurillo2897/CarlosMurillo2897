@@ -17,4 +17,5 @@ What can you expect to see around? I focused most of my career on .NET stack, ho
 <a href="https://www.ey.com/en_gl"><image width="120px" height="50px" src="https://github.com/user-attachments/assets/1823d050-97b2-425f-a734-82d58f6c2c32" /></a>
 
 ### Hot Links
-- 💼 [https://www.linkedin.com/in/carlos-mb/](https://www.linkedin.com/in/carlos-mb/)
+- 💼 [Linkedin](https://www.linkedin.com/in/carlos-mb/)
+- 🆓 [Upwork](https://www.upwork.com/freelancers/~01cc2f5d6f814bf25b/)
